@@ -1,0 +1,102 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Chronik der Kirchfahrt Komptendorf (Kreis Cottbus)</title>
+<author>Christian Albin</author>
+<respStmt>
+<resp> Transcribed by </resp>
+<name xml:id="EW">Evelyn Weiser</name>
+</respStmt>
+<respStmt>
+<resp> Encoded by </resp>
+<name xml:id="EW">Evelyn Weiser</name>
+</respStmt>
+<respStmt>
+<resp> Stylesheet created by </resp>
+<name xml:id="EW">Evelyn Weiser</name>
+</respStmt>
+</titleStmt>
+<extent>???</extent>
+<publicationStmt>
+<idno>Nummer des Digitalisats???</idno>
+<publisher>EW</publisher>
+<pubPlace/>
+<availability>
+<p>This work is the property of the University of Nebraska—Lincoln. It may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text. It may be linked to freely in Internet editions of all kinds, including for—profit works.</p>
+<p>Publishers, libraries, and other information providers interested in providing this text in a commercial or non—profit product or from an information server must contact the University of Nebraska—Lincoln for licensing and cost information.</p>
+<p> Scholars interested in changing or adding to these texts by, for example, creating a new edition of the text (electronically or in print) with substantive editorial changes, may do so with the permission of the University of Nebraska—Lincoln. This is the case whether the new publication will be made available at a cost or free of charge.</p>
+</availability>
+<date>2020</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title> Carlton and Territa Lowenberg Collection, Archives and Special Collections, University of Nebraska—Lincoln Libraries. </title>
+<author>Lowenberg, Carlton; Lowenberg, Territa A., 1825—1991.</author>
+</titleStmt>
+<!-- <publicationStmt>
+<publisher>Archives and Special Collections, Electronic Text Center</publisher>
+<pubPlace>University of Nebraska—Lincoln Libraries</pubPlace>
+<date>2001</date>
+<address>
+<addrLine>Electronic Text Center</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>P.O. Box 884100</addrLine>
+<addrLine>University of Nebraska—Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588—4100</addrLine>
+</address>
+</publicationStmt> -->
+<!-- <notesStmt>
+<note type="label">Nov. 7, 1885</note>
+<note type="sentence">No other plays by Miss Parker have come to light. </note>
+</notesStmt> -->
+</biblFull>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+<p>Line breaks, paragraph breaks, and indentations have been preserved within the transcription. The layout of the page has been preserved whenever possible. Abbreviations and spellings have been maintained within the transcriptions, and the full word and corrected or modern spellings have been provided. Images of the original letters have been provided in order to show the original page layout and other markings that are not the author's. Such markings include letter head, postcards, postal stamps, etc. and writing by other people. Words or phrases that are deemed indecipherable have been noted as "unclear." To provide further information as to the context of a particular letter, notations have been provided.</p>
+</editorialDecl>
+</encodingDesc>
+<revisionDesc>
+<change when="2006-01-24" who="#LW">Add and revise header info, change lbs and divs</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div>
+<head type="main">Geschichtliche Notizen über die Kirchengemeine Comptendorf</head>
+<head type="sub">Vorerinnerung</head>
+<p>Für jeden Menschen von einigem Nachdenken ist es <lb/> angenehm, von den lichten Höhn der Gegenwart einige <lb/> Rückblicke thun zu können in die nebelgrauen Fernen<lb/> der Vergangenheit und aus den frühern Zeiten <lb/> Nachrichten zu besitzen über den Ort, wo er seinen<lb/> Lebens- und Wirkungskreis angewiesen hat; Nachrichten<lb/>  ber seine eigenen Väter und Vorfahren oder über An-<lb/> stalten, deren wohlthätige Zwecke er selbst zu befördern<lb/> und zu erhalten, deren Segnungen er zu genießen hat.<lb/> Solche Nachrichten sind nicht nur angenehm, sondern <lb/> selbst nützlich und sie setzen uns in den Stand, über so<lb/> manche Erscheinung der Gegenwart richtig zu urthei<lb/> len und deren Ursachen und Quellen angeben zu können.<lb/> Freilich hat man in den älteren Zeiten, wenig davon<lb/>  gwußt, in dieser Art für die Nachwelt zu sorgen und<lb/> so unendlich viele Begebenheiten, die man des</p>
+<p>When two laws appear to disagree in their<lb/> terms,
+<del>it is</del>
+a great question is often made<lb/> whether they are or are not repugnant. The<lb/> occasion<del>s</del> on which it is brought upon the carpet<lb/>
+<!-- it is the provisional policy of Transcribe Bentham to treat line-end hyphenation in this fashion -->
+is generally where the two laws in question<lb/>
+<del>on</del>
+<add>emane</add>
+the one of them
+<gap/>
+<gap/>
+from a
+<del>legislature</del>
+superior<lb/>
+<del>which</del>
+the other from a superior legislature.<lb/> The question then is
+<add>in truth</add>
+[properly speaking] a
+<add>great</add>
+question<lb/> of constitutional law; but since the word which is<lb/> the subject of it is
+<del>a</del>
+one of those which appears to be expressive of the
+<hi rend="underline">aspect</hi>
+of a superventitious<lb/>
+<add>law</add>
+to a primordial one, it seems to have<lb/> some claim to be consider’d here.</p>
+<p>Hitherto the <gap/> primordial <del>law</del> <add>provision</add> and the<lb/> superventitious have been consider’d as <del>the</del> emaning<lb/> from the same authority <add>source</add>: so long as this is the case<lb/> the word repugnant may be looked upon as synonymous<lb/> to alterative. Repugnancy <del>
+<add>A law which</add>
+</del> may accordingly be simply <gap/> revocative or reversive; and in either<lb/> case</p>
+</div>
+</body>
+</text>
